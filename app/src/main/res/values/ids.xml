@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rv" type="id" />
+    <item name="sv" type="id" />
+    <item name="leagueImage" type="id" />
+    <item name="leagueName" type="id" />
+    <item name="leagueDesc" type="id" />
+</resources>
